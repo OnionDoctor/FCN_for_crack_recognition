@@ -1,4 +1,4 @@
-不sho# FCN_for_crack_recognition
+# FCN_for_crack_recognition
 
 ## Requirements
 - Python 3.x
@@ -66,8 +66,7 @@ Then you can using matplotlib to show the skeleton and print the crack morpholog
 ![crack_cp_0286.png](https://github.com/OnionDoctor/FCN_for_crack_recognition/blob/master/results/crack_cp_0286.png)
 
 - complex cracks
-<<<<<<< HEAD
 ![crack_cp_0619.png](https://github.com/OnionDoctor/FCN_for_crack_recognition/blob/master/results/crack_cp_0619.png)
-=======
+
 ![crack_cp_0619.png](https://raw.githubusercontent.com/OnionDoctor/FCN_for_crack_recognition/blob/master/results/crack_cp_0619.png)
->>>>>>> dbb22682e5c272bb9b20bbc7d399c95ee0fbd28a
+
