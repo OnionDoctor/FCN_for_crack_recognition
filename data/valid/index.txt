@@ -1,0 +1,2 @@
+image//0001.jpg,annotation//0001.png
+image//0002.jpg,annotation//0002.png
