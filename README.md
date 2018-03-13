@@ -51,19 +51,19 @@ Then you can using matplotlib to show the skeleton and print the crack morpholog
 
 ## Results
 - normal cracks
-![crack_cp_0742.png](https://raw.githubusercontent.com/OnionDoctor/FCN_for_crack_recognition/blob/master/results/crack_cp_0742.png)
+![crack_cp_0742.png](https://github.com/OnionDoctor/FCN_for_crack_recognition/blob/master/results/crack_cp_0742.png)
 
 - thin cracks
-![crack_cp_0063.png](https://raw.githubusercontent.com/OnionDoctor/FCN_for_crack_recognition/blob/master/results/crack_cp_0063.png)
+![crack_cp_0063.png](https://github.com/OnionDoctor/FCN_for_crack_recognition/blob/master/results/crack_cp_0063.png)
 
 - intersected cracks
-![crack_cp_0070.png](https://raw.githubusercontent.com/OnionDoctor/FCN_for_crack_recognition/blob/master/results/crack_cp_0070.png)
+![crack_cp_0070.png](https://github.com/OnionDoctor/FCN_for_crack_recognition/blob/master/results/crack_cp_0070.png)
 
 - historical(wide) cracks
-![crack_cp_0228.png](https://raw.githubusercontent.com/OnionDoctor/FCN_for_crack_recognition/blob/master/results/crack_cp_0228.png)
+![crack_cp_0228.png](https://github.com/OnionDoctor/FCN_for_crack_recognition/blob/master/results/crack_cp_0228.png)
 
 - mixed cracks
-![crack_cp_0286.png](https://raw.githubusercontent.com/OnionDoctor/FCN_for_crack_recognition/blob/master/results/crack_cp_0286.png)
+![crack_cp_0286.png](https://github.com/OnionDoctor/FCN_for_crack_recognition/blob/master/results/crack_cp_0286.png)
 
 - complex cracks
-![crack_cp_0619.png](https://raw.githubusercontent.com/OnionDoctor/FCN_for_crack_recognition/blob/master/results/crack_cp_0619.png)
+![crack_cp_0619.png](https://github.com/OnionDoctor/FCN_for_crack_recognition/blob/master/results/crack_cp_0619.png)
