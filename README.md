@@ -28,6 +28,7 @@
 1. Download vgg19 pretrained parameters into the root folder (https://drive.google.com/open?id=15WMDJbFWw3f1qMbTuDO1k4HQ0hyPB4-6)
 2. Prepare your own data or download crack dataset from (https://drive.google.com/open?id=1cplcUBmgHfD82YQTWnn1dssK2Z_xRpjx) If you need to change the training samples or validating sample, you can modify the ```index.txt``` file directly. Then put the data into ```data/train/``` and ```data/valid/``` respectively.
 3. Run ```python FCN_finetune.py --mode=finetune --learning_rate=1e-4 --num_of_epoch=20 --batch_size=2```
+4. If you would like to check the training process, run ```tensorboard --logdir=logs```, then open ```http://localhost:6006/``` using any web explorer.
 
 Please put 'index.txt' into train or valid folder as follows (The feeding process will follow this order):
 ```
@@ -47,3 +48,22 @@ crack_max_width = analyser.get_crack_max_width()
 crack_mean_width = analyser.get_crack_mean_width()
 ```
 Then you can using matplotlib to show the skeleton and print the crack morphological features.
+
+## Results
+- normal cracks
+![crack_cp_0742.png](.\results\crack_cp_0742.png)
+
+- thin cracks
+![crack_cp_0063.png](.\results\crack_cp_0063.png)
+
+- intersected cracks
+![crack_cp_0070.png](.\results\crack_cp_0070.png)
+
+- historical(wide) cracks
+![crack_cp_0228.png](.\results\crack_cp_0228.png)
+
+- mixed cracks
+![crack_cp_0286.png](.\results\crack_cp_0286.png)
+
+- complex cracks
+![crack_cp_0619.png](.\results\crack_cp_0619.png)
