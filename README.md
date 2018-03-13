@@ -50,6 +50,12 @@ crack_mean_width = analyser.get_crack_mean_width()
 Then you can using matplotlib to show the skeleton and print the crack morphological features.
 
 ## Results
+- training loss
+![loss.jpg](https://github.com/OnionDoctor/FCN_for_crack_recognition/blob/master/results/loss.jpg)
+
+- training accuracy
+![acc.jpg](https://github.com/OnionDoctor/FCN_for_crack_recognition/blob/master/results/acc.jpg)
+
 - normal cracks
 ![crack_cp_0742.png](https://github.com/OnionDoctor/FCN_for_crack_recognition/blob/master/results/crack_cp_0742.png)
 
@@ -67,6 +73,3 @@ Then you can using matplotlib to show the skeleton and print the crack morpholog
 
 - complex cracks
 ![crack_cp_0619.png](https://github.com/OnionDoctor/FCN_for_crack_recognition/blob/master/results/crack_cp_0619.png)
-
-![crack_cp_0619.png](https://raw.githubusercontent.com/OnionDoctor/FCN_for_crack_recognition/blob/master/results/crack_cp_0619.png)
-
