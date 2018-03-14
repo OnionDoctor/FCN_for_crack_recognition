@@ -2,7 +2,7 @@
 
 ## Requirements
 - Python 3.x
-- Tensorflow >= 1.21
+- Tensorflow >= 1.21 or Tensorflow-gpu
 - Numpy
 - Scipy, Scikit-image
 - Matplotlib
